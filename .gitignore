@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+
+# other opsi related files
+*.opsi
+*.md5
+*.zsync
+*.cab
+*.wim
+*.msi
+*.msp
+*.ref
+*.zip
+*.com
+*.sys
+*.res
+                                                                                                                                        67,1          Bot
+
