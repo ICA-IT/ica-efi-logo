@@ -28,6 +28,7 @@
 
 # Executables
 *.exe
+!CLIENT_DATA/files/setup.exe
 *.out
 *.app
 
